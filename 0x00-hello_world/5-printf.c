@@ -2,7 +2,7 @@
 /**
  * main - prints the phrase with proper grammer
  * but the output is apiece of art
- * return: always,0
+ * return: always 0
  */
 int main(void)
 {
